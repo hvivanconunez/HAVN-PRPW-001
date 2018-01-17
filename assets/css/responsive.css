@@ -120,10 +120,6 @@ Author URI: http://www.xpeedstudio.com
 
 }
 
-
-
-
-
 @media (max-width: 400px) {
 
 
@@ -139,5 +135,5 @@ Author URI: http://www.xpeedstudio.com
 
 }
 
-
-
+.team-leader-box{ max-width:307px; width:auto; float:none; margin:0 auto;   }
+.team-leader-box:nth-of-type(3n){ margin:0 auto}

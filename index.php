@@ -114,10 +114,10 @@
                     <div class="collapse navbar-collapse" id="navbar-menu">
                         <ul class="nav navbar-nav navbar-right">
                             <li><a href="#home">Inicio</a></li>                    
-                            <li><a href="#features">Nosotros</a></li>
+                            <li><a href="#Nosotros">Nosotros</a></li>
                             <li><a href="#business">Servicios</a></li>
                             <li><a href="#work">Proyectos</a></li>
-                            <li><a href="#test">Blog</a></li>
+                            <li><a href="#Equipo">Equipo</a></li>
                             <li><a href="#contact">Contáctenos</a></li>
                         </ul>
                     </div><!-- /.navbar-collapse -->
@@ -165,57 +165,8 @@
                 </div><!--End off container -->
             </section> <!--End off Home Sections-->
 
-
-
-            <!--Featured Section-->
-            <section id="features" class="features">
-                <div class="container">
-                    <div class="row">
-                        <div class="main_features fix roomy-70">
-                            <div class="col-md-4">
-                                <div class="features_item sm-m-top-30">
-                                    <div class="f_item_icon">
-                                        <i class="fa fa-thumbs-o-up"></i>
-                                    </div>
-                                    <div class="f_item_text">
-                                        <h3>Best Quality Design</h3>
-                                        <p>Lorem ipsum dolor sit amet consectetur adipiscing elit pellentesque eleifend
-                                            in sit amet mattis volutpat rhoncus.</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-4">
-                                <div class="features_item sm-m-top-30">
-                                    <div class="f_item_icon">
-                                        <i class="fa fa-tablet"></i>
-                                    </div>
-                                    <div class="f_item_text">
-                                        <h3>Responsive Design</h3>
-                                        <p>Lorem ipsum dolor sit amet consectetur adipiscing elit pellentesque eleifend
-                                            in sit amet mattis volutpat rhoncus.</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-4">
-                                <div class="features_item sm-m-top-30">
-                                    <div class="f_item_icon">
-                                        <i class="fa fa-sliders"></i>
-                                    </div>
-                                    <div class="f_item_text">
-                                        <h3>Easy to Customize</h3>
-                                        <p>Lorem ipsum dolor sit amet consectetur adipiscing elit pellentesque eleifend
-                                            in sit amet mattis volutpat rhoncus.</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div><!-- End off row -->
-                </div><!-- End off container -->
-            </section><!-- End off Featured Section-->
-
-
             <!--Business Section-->
-            <section id="business" class="business bg-grey roomy-70">
+            <section id="Nosotros" class="business bg-grey roomy-70">
                 <div class="container">
                     <div class="row">
                         <div class="main_business">
@@ -246,20 +197,15 @@
                             
                             <div class="col-md-6">
                                 <div class="business_item sm-m-top-50">
-                                    <h2 class="text-uppercase"><strong>Made</strong> is Template For Business</h2>
-                                    <ul>
-                                        <li><i class="fa fa-arrow-circle-right"></i> Clean & Modern Design</li>
-                                        <li><i class="fa  fa-arrow-circle-right"></i> Fully Responsive</li>
-                                        <li><i class="fa  fa-arrow-circle-right"></i> Google Fonts</li>
-                                    </ul>
+                                    <h2 class="text-uppercase">Grupo Thesis In Iure</h2>
                                     <p class="m-top-20">Lorem ipsum dolor sit amet, consectetur adipiscing elit pellentesque eleifend in mi 
                                         sit amet mattis suspendisse ac ligula volutpat nisl rhoncus sagittis cras suscipit 
                                         lacus quis erat malesuada lobortis eiam dui magna volutpat commodo eget pretium vitae
                                         elit etiam luctus risus urna in malesuada ante convallis.</p>
 
                                     <div class="business_btn">
-                                        <a href="https://bootstrapthemes.co" class="btn btn-default m-top-20">Read More</a>
-                                        <a href="" class="btn btn-primary m-top-20">Buy Now</a>
+                                        <a href="" class="btn btn-default m-top-20">Saber más</a>
+                                        <a href="#Equipo" class="btn btn-primary m-top-20">Conocer al Equipo</a>
                                     </div>
 
                                 </div>
@@ -498,50 +444,66 @@
 
 
             <!--Test section-->
-            <section id="test" class="test bg-grey roomy-60 fix">
+            <section id="Equipo" class="test bg-grey roomy-60 fix">
                 <div class="container">
                     <div class="row">                        
                         <div class="main_test fix">
 
                             <div class="col-md-12 col-sm-12 col-xs-12">
                                 <div class="head_title text-center fix">
-                                    <h2 class="text-uppercase">What Client Say</h2>
-                                    <h5>Clean and Modern design is our best specialist</h5>
+                                    <h2 class="text-uppercase">Equipo Thesis In Iure</h2>
+                                    <h5>Conoce a los Miembros</h5>
                                 </div>
                             </div>
 
-                            <div class="col-md-6">
+                            <div class="col-md-3">
                                 <div class="test_item fix">
-                                    <div class="item_img">
-                                        <img class="img-circle" src="assets/images/test-img1.jpg" alt="" />
-                                        <i class="fa fa-quote-left"></i>
+                                    <div class="text-center">
+                                        <img class="img-circle" src="assets/images/test-img6.jpg" alt="" />
                                     </div>
-
-                                    <div class="item_text">
-                                        <h5>Sarah Smith</h5>
-                                        <h6>envato.com</h6>
-
-                                        <p>Natus voluptatum enim quod necessitatibus quis
-                                            expedita harum provident eos obcaecati id culpa
-                                            corporis molestias.</p>
+                                    <br>
+                                    <div class="business_item text-center">
+                                        <h4><strong>Pierre<br>Vivanco</strong></h4>
+                                        <p>Metodólogo Principal</p>
                                     </div>
                                 </div>
                             </div>
 
-                            <div class="col-md-6">
-                                <div class="test_item fix sm-m-top-30">
-                                    <div class="item_img">
-                                        <img class="img-circle" src="assets/images/test-img2.jpg" alt="" />
-                                        <i class="fa fa-quote-left"></i>
+                            <div class="col-md-3">
+                                <div class="test_item fix">
+                                    <div class="text-center">
+                                        <img class="img-circle" src="assets/images/test-img5.jpg" alt="" />
                                     </div>
+                                    <br>
+                                    <div class="business_item text-center">
+                                        <h4><strong>Omar<br>Vivanco</strong></h4>
+                                        <p>Gerente Institucional</p>
+                                    </div>
+                                </div>
+                            </div>
 
-                                    <div class="item_text">
-                                        <h5>Sarah Smith</h5>
-                                        <h6>envato.com</h6>
+                            <div class="col-md-3">
+                                <div class="test_item fix">
+                                    <div class="text-center">
+                                        <img class="img-circle" src="assets/images/test-img3.jpg" alt="" />
+                                    </div>
+                                    <br>
+                                    <div class="business_item text-center">
+                                        <h4><strong>Héctor<br>Vivanco</strong></h4>
+                                        <p>Gerente de TI</p>
+                                    </div>
+                                </div>
+                            </div>
 
-                                        <p>Natus voluptatum enim quod necessitatibus quis
-                                            expedita harum provident eos obcaecati id culpa
-                                            corporis molestias.</p>
+                            <div class="col-md-3">
+                                <div class="test_item fix">
+                                    <div class="text-center">
+                                        <img class="img-circle" src="assets/images/test-img4.jpg" alt="" />
+                                    </div>
+                                    <br>
+                                    <div class="business_item text-center">
+                                        <h4><strong>Fernando<br>Martínez</strong></h4>
+                                        <p>Responsable de la Contabilidad</p>
                                     </div>
                                 </div>
                             </div>
@@ -622,22 +584,6 @@
         </div>
 
         <!-- JS includes -->
-
-        <script src="assets/js/vendor/jquery-1.11.2.min.js"></script>
-        <script src="assets/js/vendor/bootstrap.min.js"></script>
-
-        <script src="assets/js/owl.carousel.min.js"></script>
-        <script src="assets/js/jquery.magnific-popup.js"></script>
-        <script src="assets/js/jquery.easing.1.3.js"></script>
-        <script src="assets/css/slick/slick.js"></script>
-        <script src="assets/css/slick/slick.min.js"></script>
-        <script src="assets/js/jquery.collapse.js"></script>
-        <script src="assets/js/bootsnav.js"></script>
-
-
-
-        <script src="assets/js/plugins.js"></script>
-        <script src="assets/js/main.js"></script>
-
+        <?php include('includes/frk_footer.php'); ?>
     </body>
 </html>

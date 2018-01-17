@@ -6,39 +6,39 @@
                             <div class="col-md-3">
                                 <div class="widget_item widget_about">
                                     <h5 class="text-white">Nosotros</h5>
-                                    <p class="m-top-20">Somos un grupo de Profesionales que nos dedicamos a Asesorar Tesis en Derecho y Aministración.</p>
+                                    <p class="m-top-20 text-gray">Somos un grupo de Profesionales que nos dedicamos a Asesorar Tesis en Derecho y Aministración.</p>
                                     <div class="widget_ab_item m-top-30">
                                         <div class="item_icon"><i class="fa fa-location-arrow"></i></div>
                                         <div class="widget_ab_item_text">
                                             <h6 class="text-white">Ubicación :</h6>
-                                            <p>Jr. Tarapaca 159</p>
+                                            <p class="text-gray">Jr. Tarapaca 159</p>
                                         </div>
                                     </div>
                                     <div class="widget_ab_item m-top-30">
                                         <div class="item_icon"><i class="fa fa-phone"></i></div>
                                         <div class="widget_ab_item_text">
                                             <h6 class="text-white">Celular :</h6>
-                                            <p>+51 987 547 741</p>
+                                            <p class="text-gray">+51 987 547 741</p>
                                         </div>
                                     </div>
                                     <div class="widget_ab_item m-top-30">
                                         <div class="item_icon"><i class="fa fa-envelope-o"></i></div>
                                         <div class="widget_ab_item_text">
                                             <h6 class="text-white">E-mail :</h6>
-                                            <p>vivanco_n@hotmail.com</p>
+                                            <p class="text-gray">vivanco_n@hotmail.com</p>
                                         </div>
                                     </div>
                                 </div><!-- End off widget item -->
                             </div><!-- End off col-md-3 -->
 
                             <div class="col-md-3">
-                                <div class="widget_item widget_about">
+                                <div class="widget_item widget_about sm-m-top-50">
                                     <h5 class="text-white">Horarios de Atención</h5>
                                     <div class="widget_ab_item m-top-30">
                                         <div class="item_icon"><i class="fa fa-clock-o"></i></div>
                                         <div class="widget_ab_item_text">
                                             <h6 class="text-white">Lunes a Viernes :</h6>
-                                            <ul>
+                                            <ul class="text-gray">
                                                 <li>Mañana: 9:00 - 13:00</li>
                                                 <li>Tarde: 16:00 - 19:30</li>
                                             </ul>
@@ -48,7 +48,7 @@
                                         <div class="item_icon"><i class="fa fa-clock-o"></i></div>
                                         <div class="widget_ab_item_text">
                                             <h6 class="text-white">Sábados :</h6>
-                                            <ul>
+                                            <ul class="text-gray">
                                                 <li>Mañana: 9:00 - 13:00</li>
                                             </ul>
                                         </div>
@@ -58,7 +58,7 @@
 
                             <div class="col-md-3">
                                 <div class="widget_item widget_service sm-m-top-50">
-                                    <h5 class="text-white">Páginas de Interes</h5>
+                                    <h5 class="text-white">Páginas de Interés</h5>
                                     <ul class="m-top-20">
                                         <li class="m-top-20"><a href=""><i class="fa fa-angle-right"></i> Página 1</a></li>
                                         <li class="m-top-20"><a href=""><i class="fa fa-angle-right"></i> Página 2</a></li>
