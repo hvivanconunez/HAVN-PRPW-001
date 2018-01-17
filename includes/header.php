@@ -2,7 +2,7 @@
 <html class="no-js" lang="en">
     <head>
         <meta charset="utf-8">
-        <title>Thesis In Iure</title>
+        <title><?php echo $lblTituloPagina; ?></title>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="icon" type="image/png" href="favicon.ico">
@@ -113,11 +113,11 @@
                     <!-- navbar menu -->
                     <div class="collapse navbar-collapse" id="navbar-menu">
                         <ul class="nav navbar-nav navbar-right">
-                            <li><a href="#Inicio">Inicio</a></li>                    
-                            <li><a href="#Nosotros">Nosotros</a></li>
-                            <li><a href="#Servicios">Servicios</a></li>
-                            <li><a href="#Equipo">Equipo</a></li>
-                            <li><a href="#Contactenos">Contáctenos</a></li>
+                            <li><a href="index">Inicio</a></li>                    
+                            <li><a href="nosotros">Nosotros</a></li>
+                            <li><a href="servicios">Servicios</a></li>
+                            <li><a href="equipo">Equipo</a></li>
+                            <li><a href="contactenos">Contáctenos</a></li>
                         </ul>
                     </div><!-- /.navbar-collapse -->
                 </div> 
