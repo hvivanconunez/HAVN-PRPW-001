@@ -1,12 +1,11 @@
-<footer id="contact" class="footer action-lage bg-black p-top-80">
+<footer id="Contactenos" class="footer action-lage bg-black p-top-80">
                 <!--<div class="action-lage"></div>-->
                 <div class="container">
                     <div class="row">
                         <div class="widget_area">
                             <div class="col-md-3">
                                 <div class="widget_item widget_about">
-                                    <h5 class="text-white">Nosotros</h5>
-                                    <p class="m-top-20 text-gray">Somos un grupo de Profesionales que nos dedicamos a Asesorar Tesis en Derecho y Aministración.</p>
+                                    <h5 class="text-white">Contáctenos</h5>
                                     <div class="widget_ab_item m-top-30">
                                         <div class="item_icon"><i class="fa fa-location-arrow"></i></div>
                                         <div class="widget_ab_item_text">
@@ -93,7 +92,7 @@
                 </div>
                 <div class="main_footer fix bg-mega text-center p-top-40 p-bottom-30 m-top-80">
                     <div class="col-md-12">
-                        <p class="wow fadeInRight" data-wow-duration="1s">
+                        <p class="wow fadeInRight text-gray" data-wow-duration="1s">
                             Hecho
                             por 
                             Héctor Vivanco
@@ -102,3 +101,19 @@
                     </div>
                 </div>
             </footer>
+        </div>
+    <script src="assets/js/vendor/jquery-1.11.2.min.js"></script>
+    <script src="assets/js/vendor/bootstrap.min.js"></script>
+
+    <script src="assets/js/owl.carousel.min.js"></script>
+    <script src="assets/js/jquery.magnific-popup.js"></script>
+    <script src="assets/js/jquery.easing.1.3.js"></script>
+    <script src="assets/css/slick/slick.js"></script>
+    <script src="assets/css/slick/slick.min.js"></script>
+    <script src="assets/js/jquery.collapse.js"></script>
+    <script src="assets/js/bootsnav.js"></script>
+
+    <script src="assets/js/plugins.js"></script>
+    <script src="assets/js/main.js"></script>
+</body>
+</html>
