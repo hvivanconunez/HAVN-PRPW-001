@@ -3,7 +3,7 @@
 <!--Business Section-->
             <section class="home2 bg-grey roomy-70">
                 <div class="container">
-                    <div class="row">
+                    <div class="row sm-m-top-50">
                         <div class="main_business">
                             <div class="col-md-3">
                                 <div class="business_slid">
@@ -29,8 +29,12 @@
                             </div>
                         </div>
                     </div>
+                </div>
+            </section>
 
-                    <div class="row m-top-30">
+            <section class="business roomy-70">
+                <div class="container">
+                    <div class="row">
                         <div class="main_business">
                             <div class="col-md-3 pull-right">
                                 <div class="business_slid">
@@ -56,8 +60,12 @@
                             </div>
                         </div>
                     </div>
+                </div>
+            </section>
 
-                    <div class="row m-top-30">
+            <section class="business bg-grey roomy-70">
+                <div class="container">
+                    <div class="row">
                         <div class="main_business">
                             <div class="col-md-3">
                                 <div class="business_slid">
