@@ -190,10 +190,10 @@
                                 </div>
                             </div>
 
-                            <div class="col-md-3" data-wow-duration="1s">
+                            <div class="col-md-3 imgclick" data-wow-duration="1s" onclick="window.open('equipo#pierrevivanco');">
                                 <div class="test_item fix">
                                     <div class="text-center">
-                                        <img class="img-circle" src="assets/images/test-img6.jpg" alt="" />
+                                        <img class="img-circle imgmiembros" src="assets/images/test-img6.jpg" alt=""/>
                                     </div>
                                     <br>
                                     <div class="business_item text-center">
@@ -203,10 +203,10 @@
                                 </div>
                             </div>
 
-                            <div class="col-md-3" data-wow-duration="1s">
+                            <div class="col-md-3 imgclick" data-wow-duration="1s" onclick="window.open('equipo#omarvivanco');">
                                 <div class="test_item fix">
                                     <div class="text-center">
-                                        <img class="img-circle" src="assets/images/test-img5.jpg" alt="" />
+                                        <img class="img-circle imgmiembros" src="assets/images/test-img5.jpg" alt="" />
                                     </div>
                                     <br>
                                     <div class="business_item text-center">
@@ -216,10 +216,10 @@
                                 </div>
                             </div>
 
-                            <div class="col-md-3" data-wow-duration="1s">
+                            <div class="col-md-3 imgclick" data-wow-duration="1s" onclick="window.open('equipo#hectorvivanco');">
                                 <div class="test_item fix">
                                     <div class="text-center">
-                                        <img class="img-circle" src="assets/images/test-img3.jpg" alt="" />
+                                        <img class="img-circle imgmiembros" src="assets/images/test-img3.jpg" alt="" />
                                     </div>
                                     <br>
                                     <div class="business_item text-center">
@@ -229,10 +229,10 @@
                                 </div>
                             </div>
 
-                            <div class="col-md-3" data-wow-duration="1s">
+                            <div class="col-md-3 imgclick" data-wow-duration="1s" onclick="window.open('equipo#fernandomartinez');">
                                 <div class="test_item fix">
                                     <div class="text-center">
-                                        <img class="img-circle" src="assets/images/test-img4.jpg" alt="" />
+                                        <img class="img-circle imgmiembros" src="assets/images/test-img4.jpg" alt="" />
                                     </div>
                                     <br>
                                     <div class="business_item text-center">

@@ -23,6 +23,7 @@
         <!--<link rel="stylesheet" href="assets/css/plugins.css" />-->
         <!--Theme custom css -->
         <link rel="stylesheet" href="assets/css/style.css">
+        <link rel="stylesheet" href="assets/css/estilos.css">
         <!--<link rel="stylesheet" href="assets/css/colors/maron.css">-->
         <!--Theme Responsive css-->
         <link rel="stylesheet" href="assets/css/responsive.css" />
@@ -102,7 +103,7 @@
                         <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
                             <i class="fa fa-bars"></i>
                         </button>
-                        <a class="navbar-brand" href="#brand">
+                        <a class="navbar-brand" href="index">
                             <img src="assets/images/logo.png" class="logo" alt="">
                             <!--<img src="assets/images/footer-logo.png" class="logo logo-scrolled" alt="">-->
                         </a>
