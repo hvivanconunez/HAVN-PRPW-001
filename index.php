@@ -12,7 +12,7 @@
                                     <div class="slid_item">
                                         <div class="home_text ">
                                             <h2 class="text-white">Bienvenido a <strong>Thesis In Iure</strong></h2>
-                                            <h1 class="text-white">Asesoría de Tesis en Derecho y Administración</h1>
+                                            <h1 class="text-white">Asesoría de Tesis en Derecho</h1>
                                             <h3 class="text-white">- Grupo de profesionales que <strong>Asesoramos Tesis</strong> de tu Especialidad -</h3>
                                         </div>
                                         <!--
@@ -79,9 +79,8 @@
 
                                     <div class="business_btn">
                                         <a href="" class="btn btn-primary m-top-20">Saber más</a>
-                                        <a href="#Equipo" class="btn btn-primary m-top-20">Conocer al Equipo</a>
+                                        <a href="equipo" class="btn btn-primary m-top-20">Conocer al Equipo</a>
                                     </div>
-
                                 </div>
                             </div>
                         </div>
@@ -245,71 +244,4 @@
                     </div>
                 </div>
             </section><!-- End off test section -->
-
-
-            <!--Brand Section-->
-            <!--
-            <section id="brand" class="brand fix roomy-80">
-                <div class="container">
-                    <div class="row">
-                        <div class="main_brand text-center">
-                            <div class="col-md-2 col-sm-4 col-xs-6">
-                                <div class="brand_item sm-m-top-20">
-                                    <img src="assets/images/cbrand-img1.png" alt="" />
-                                </div>
-                            </div>
-                            <div class="col-md-2 col-sm-4 col-xs-6">
-                                <div class="brand_item sm-m-top-20">
-                                    <img src="assets/images/cbrand-img2.png" alt="" />
-                                </div>
-                            </div>
-                            <div class="col-md-2 col-sm-4 col-xs-6">
-                                <div class="brand_item sm-m-top-20">
-                                    <img src="assets/images/cbrand-img3.png" alt="" />
-                                </div>
-                            </div>
-                            <div class="col-md-2 col-sm-4 col-xs-6">
-                                <div class="brand_item sm-m-top-20">
-                                    <img src="assets/images/cbrand-img4.png" alt="" />
-                                </div>
-                            </div>
-                            <div class="col-md-2 col-sm-4 col-xs-6">
-                                <div class="brand_item sm-m-top-20">
-                                    <img src="assets/images/cbrand-img5.png" alt="" />
-                                </div>
-                            </div>
-                            <div class="col-md-2 col-sm-4 col-xs-6">
-                                <div class="brand_item sm-m-top-20">
-                                    <img src="assets/images/cbrand-img6.png" alt="" />
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-            -->
-            <!-- End off Brand section -->
-
-
-            <!--Call to  action section-->
-            <!--
-            <section id="action" class="action bg-primary roomy-40">
-                <div class="container">
-                    <div class="row">
-                        <div class="maine_action">
-                            <div class="col-md-8">
-                                <div class="action_item text-center">
-                                    <h2 class="text-white text-uppercase">Your Promotion Text Will Be Here</h2>
-                                </div>
-                            </div>
-                            <div class="col-md-4">
-                                <div class="action_btn text-left sm-text-center">
-                                    <a href="" class="btn btn-default">Purchase Now</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-            -->
 <?php include('includes/footer.php'); ?>

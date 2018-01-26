@@ -118,6 +118,7 @@
                             <li><a href="nosotros">Nosotros</a></li>
                             <li><a href="servicios">Servicios</a></li>
                             <li><a href="equipo">Equipo</a></li>
+                            <li><a href="aulavirtual" target="_blank">Aula Virtual</a></li>
                             <li><a href="contactenos">Contáctenos</a></li>
                         </ul>
                     </div><!-- /.navbar-collapse -->
