@@ -10,10 +10,9 @@ Author URI: http://www.xpeedstudio.com
     body {
         font-size: 1rem;
     }
-    
-
-
-
+    .business_item > h3{
+        font-weight: bold;
+    }
 }
 
 
@@ -51,9 +50,9 @@ Author URI: http://www.xpeedstudio.com
     .item_img i{
         right:0%;
     }
-
-
-
+    .business_item > h3{
+        font-weight: bold;
+    }
 }
 
 
@@ -99,7 +98,9 @@ Author URI: http://www.xpeedstudio.com
     .main_product .carousel-control{
         display: none;
     }
-
+    .business_item > h3{
+        font-weight: bold;
+    }
 }
 
 
@@ -115,6 +116,13 @@ Author URI: http://www.xpeedstudio.com
     }
     .main_home .home_text h3{
         font-size:17px;
+    }
+    .business_item > h2{
+        font-size:14px;
+    }
+    .business_item > h3{
+        font-size:14px;
+        font-weight: bold;
     }
 
 

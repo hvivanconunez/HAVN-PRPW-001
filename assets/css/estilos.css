@@ -12,18 +12,31 @@
 
 .estexto1{
 	font-size: 1.100rem;
-    line-height: 1.575rem;
-    font-family: 'Raleway', sans-serif;
-    font-weight: 500;
+  line-height: 1.575rem;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 500;
 }
 
 .estexto2{
 	font-size: 1.250rem;
-    line-height: 1.575rem;
-    font-family: 'Raleway', sans-serif;
-    font-weight: 500;
+  line-height: 1.575rem;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 500;
 }
 
+.estexto3{
+  font-size: 1.650rem;
+  line-height: 1.575rem;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 520;
+}
+
+.estexto4{
+  font-size: 2.200rem;
+  line-height: 1.575rem;
+  font-family: 'Raleway', sans-serif;
+  font-weight: bold;
+}
 /*
 .imgmiembros {
   filter: gray;

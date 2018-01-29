@@ -92,10 +92,10 @@
             <!--product section-->
             <section id="Servicios" class="product">
                 <div class="container">
-                    <div class="main_product roomy-80">
+                    <div class="main_product roomy-50">
                         <div class="head_title text-center fix">
-                            <h2 class="text-uppercase">Nuestros Servicios</h2>
-                            <h5>Conoce la oferta de nuestros servicios</h5>
+                            <h2 class="text-uppercase">Nuestras Líneas Asesorales</h2>
+                            <h5 class="text-black">Conozca nuestros servicios de las siguientes líneas asesorales</h5>
                         </div>
 
                         <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
@@ -113,42 +113,55 @@
                                 <div class="item active">
                                     <div class="container">
                                         <div class="row">
-                                            <div class="col-sm-4">
-                                                <div class="port_item xs-m-top-30">
-                                                    <div class="port_img">
-                                                        <img src="assets/images/work-img1.jpg" alt="" />
+                                            <div class="col-sm-3">
+                                                <div class="port_item">
+                                                    <div class="">
+                                                        <img src="assets/images/index-lineas-asesorales-1.jpg" alt="" />
                                                         <div class="port_overlay text-center">
                                                             <a href="assets/images/work-img1.jpg" class="popup-img">+</a>
                                                         </div>
                                                     </div>
                                                     <div class="port_caption m-top-20">
-                                                        <h5>Asesoría de Tesis en Derecho</h5>
+                                                        <h6 class="text-black">Asesoría Metodológica Jurídica</h6>
                                                     </div>
                                                 </div>
                                             </div>
-                                            <div class="col-sm-4">
+                                            <div class="col-sm-3">
                                                 <div class="port_item xs-m-top-30">
-                                                    <div class="port_img">
-                                                        <img src="assets/images/work-img2.jpg" alt="" />
+                                                    <div class="">
+                                                        <img src="assets/images/index-lineas-asesorales-2.jpg" alt="" class="img-responsive" />
                                                         <div class="port_overlay text-center">
-                                                            <a href="assets/images/work-img2.jpg" class="popup-img">+</a>
+                                                            <a href="assets/images/index-lineas-asesorales-2.jpg" class="popup-img">+</a>
                                                         </div>
                                                     </div>
                                                     <div class="port_caption m-top-20">
-                                                        <h5>Asesoría de Tesis en Administración</h5>
+                                                        <h6 class="text-black">Asesoría Temática Jurídica</h6>
                                                     </div>
                                                 </div>
                                             </div>
-                                            <div class="col-sm-4">
+                                            <div class="col-sm-3">
                                                 <div class="port_item xs-m-top-30">
-                                                    <div class="port_img">
-                                                        <img src="assets/images/work-img3.jpg" alt="" />
+                                                    <div class="">
+                                                        <img src="assets/images/index-lineas-asesorales-3.jpg" alt="" class="img-responsive" />
                                                         <div class="port_overlay text-center">
                                                             <a href="assets/images/work-img3.jpg" class="popup-img">+</a>
                                                         </div>
                                                     </div>
                                                     <div class="port_caption m-top-20">
-                                                        <h5>Asesoría en Estadística</h5>
+                                                        <h6 class="text-black">Asesoría en Estadística Jurídica</h6>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="col-sm-3">
+                                                <div class="port_item xs-m-top-30">
+                                                    <div class="">
+                                                        <img src="assets/images/index-lineas-asesorales-4.jpg" alt="" class="img-responsive" />
+                                                        <div class="port_overlay text-center">
+                                                            <a href="assets/images/work-img3.jpg" class="popup-img">+</a>
+                                                        </div>
+                                                    </div>
+                                                    <div class="port_caption m-top-20">
+                                                        <h6 class="text-black">Asesoría en Epistemología Jurídica</h6>
                                                     </div>
                                                 </div>
                                             </div>
@@ -185,7 +198,7 @@
                             <div class="col-md-12 col-sm-12 col-xs-12">
                                 <div class="head_title text-center fix">
                                     <h2 class="text-uppercase">Equipo Thesis In Iure</h2>
-                                    <h5>Conoce a los Miembros</h5>
+                                    <h5 class="text-black">Conoce a los Miembros</h5>
                                 </div>
                             </div>
 

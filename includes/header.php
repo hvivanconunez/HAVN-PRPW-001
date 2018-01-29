@@ -116,8 +116,9 @@
                         <ul class="nav navbar-nav navbar-right">
                             <li><a href="index">Inicio</a></li>                    
                             <li><a href="nosotros">Nosotros</a></li>
-                            <li><a href="servicios">Servicios</a></li>
-                            <li><a href="equipo">Equipo</a></li>
+                            <li><a href="lineas_asesorales">Líneas Asesorales</a></li>
+                            <li><a href="programas">Programas</a></li>
+                            <li><a href="asesores">Asesores</a></li>
                             <li><a href="aulavirtual" target="_blank">Aula Virtual</a></li>
                             <li><a href="contactenos">Contáctenos</a></li>
                         </ul>
