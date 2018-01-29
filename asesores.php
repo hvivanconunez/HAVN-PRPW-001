@@ -1,9 +1,16 @@
 <?php $lblTituloPagina = "Thesis in Iure | Asesores"; ?>
 <?php include('includes/header.php'); ?>
 <!--Business Section-->
-<section class="home2 bg-grey roomy-70" id="pierrevivanco">
+<section class="home3 bg-grey roomy-35" id="pierrevivanco">
     <div class="container">
-        <div class="row sm-m-top-50">
+        <div class="row sm-m-top-40">
+            <div class="col-md-12">
+                <div class="business_item">
+                    <h2 class="text-uppercase">Pierre Vivanco</h2>
+                </div>
+            </div>
+        </div>
+        <div class="row">
             <div class="main_business">
                 <div class="col-md-3">
                     <div class="bg-grey"></div>
@@ -15,10 +22,8 @@
                         </div>
                     </div>
                 </div>
-                
                 <div class="col-md-9">
                     <div class="business_item sm-m-top-50">
-                        <h2 class="text-uppercase">Pierre Vivanco</h2>
                         <span class="m-top-20 estexto2 text-black">Metodólogo Principal</span><br><br>
                         <span class="m-top-20 estexto1 text-black">Abog. Universidad Peruana Los Andes</span><br>
                         <span class="m-top-20 estexto1 text-black">Mg. Pontificia Universidad Católica del Perú</span><br>
@@ -30,9 +35,16 @@
         </div>
     </div>
 </section>
-<section class="test roomy-70" id="omarvivanco">
+<section class="product roomy-30" id="omarvivanco">
     <div class="container">
-        <div class="row sm-m-top-50">
+        <div class="row sm-m-top-10">
+            <div class="col-md-12">
+                <div class="business_item">
+                    <h2 class="text-uppercase">Omar Vivanco</h2>
+                </div>
+            </div>
+        </div>
+        <div class="row">
             <div class="main_business">
                 <div class="col-md-3">
                     <div class="bg-grey"></div>
@@ -43,11 +55,9 @@
                             </div>
                         </div>
                     </div>
-                </div>
-                
+                </div>   
                 <div class="col-md-9">
                     <div class="business_item sm-m-top-50">
-                        <h2 class="text-uppercase">Omar Vivanco</h2>
                         <span class="m-top-20 estexto2 text-black">Gerente Institucional</span><br><br>
                         <span class="m-top-20 estexto1 text-black">Lic. Universidad Peruana Los Andes</span><br>
                         <span class="m-top-20 estexto1 text-black">Mg. Pontificia Universidad Católica del Perú</span><br>
@@ -59,7 +69,7 @@
         </div>
     </div>
 </section>
-<section class="test bg-grey roomy-70" id="hectorvivanco">
+<section class="test bg-grey roomy-30" id="hectorvivanco">
     <div class="container">
         <div class="row sm-m-top-50">
             <div class="main_business">
@@ -88,7 +98,7 @@
         </div>
     </div>
 </section>
-<section class="test roomy-70" id="fernandomartinez">
+<section class="test roomy-30" id="fernandomartinez">
     <div class="container">
         <div class="row sm-m-top-50">
             <div class="main_business">

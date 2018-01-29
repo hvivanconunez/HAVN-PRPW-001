@@ -1,9 +1,9 @@
 <?php $lblTituloPagina = "Thesis in Iure | Líneas Asesorales"; ?>
 <?php include('includes/header.php'); ?>
 <!--Business Section-->
-<section class="home2 bg-grey roomy-40" id="asesoriametodologicajuridica">
+<section class="home3 bg-grey roomy-35" id="asesoriametodologicajuridica">
     <div class="container">
-        <div class="row sm-m-top-10">
+        <div class="row sm-m-top-50">
             <div class="col-md-12">
                 <div class="business_item">
                     <h2 class="text-uppercase">Asesoría Metodológica Jurídica</h2>
@@ -34,7 +34,7 @@
         </div>
     </div>
 </section>
-<section class="product roomy-40" id="asesoriatematicajuridica">
+<section class="product roomy-30" id="asesoriatematicajuridica">
     <div class="container">
         <div class="row sm-m-top-10">
             <div class="col-md-12">
@@ -58,7 +58,7 @@
                 </div>
                 
                 <div class="col-md-8">
-                    <div class="business_item sm-m-top-30">
+                    <div class="business_item">
                         <p class="m-top-20 text-black text-justify">Respecto al tema de investigación jurídica existen dos grandes dificultades: (1) Si el tema de investigación elegido por el tesista es el más idóneo y (2) afirmar: “Mi problema de investigación es que no tengo tema de investigación”.</p>
                         <p class="m-top-20 text-black text-justify">Dichos problemas se pueden superar a través de la experiencia académica de un asesor temático, especialista de una rama jurídica en específico, el cual otorgará mayores luces respecto a la predictibilidad sobre un tema de investigación, asimismo brinda y expone tópicos de investigación con y para el tesista para obtener temas de investigación.</p>
                         <p class="m-top-20 text-black text-justify">Por lo tanto, el asesor temático coadyuva a que el tesista tome las mejores decisiones evaluando los pros y contras que demande un determinado tema de investigación.</p>
@@ -68,7 +68,7 @@
         </div>
     </div>
 </section>
-<section class="product bg-grey roomy-40" id="asesoriaestadisticajuridica">
+<section class="product bg-grey roomy-30" id="asesoriaestadisticajuridica">
     <div class="container">
         <div class="row">
             <div class="col-md-12">
@@ -101,7 +101,7 @@
         </div>
     </div>
 </section>
-<section class="product roomy-40" id="asesoriatematicajuridica">
+<section class="product roomy-30" id="asesoriatematicajuridica">
     <div class="container">
         <div class="row">
             <div class="col-md-12">

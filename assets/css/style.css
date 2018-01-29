@@ -97,10 +97,15 @@ section { overflow: hidden; }
     padding-bottom: 40px;
 }
 
-.roomy-30 {
-    padding-top: 30px;
+.roomy-35 {
+    padding-top: 0px;
+    padding-bottom: 35px;
 }
 
+.roomy-30 {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
 
 /*text color*/
 
@@ -892,6 +897,9 @@ Nav Menu style
 /*
 Home Section style
 ==================*/
+.home3{
+    padding-top: 150px;
+}
 .home2{
     padding-top: 180px;
 }
