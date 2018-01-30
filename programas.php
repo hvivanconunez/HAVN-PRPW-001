@@ -32,7 +32,9 @@
 		                <span>&nbsp;&nbsp;</span><i class="fa fa-minus"></i><span>&nbsp;&nbsp;</span>Módulo de la Ejecución de la Tesis<br>
 		                <span>&nbsp;&nbsp;</span><i class="fa fa-minus"></i><span>&nbsp;&nbsp;</span>Módulo de la Simulación en la defensa de la tesis
 		            	</p>
-		            	<p class="text-black">Si quiere saber más detalles de los módulos, hacer click <a href="modulos">Aquí</a></p>
+		            	<div class="business_btn">
+	                        <a href="modulos" class="btn btn-primary m-top-20">Saber más</a>
+	                    </div>
                     </div>
                 </div>
             </div>
@@ -64,13 +66,13 @@
                 
                 <div class="col-md-8">
                     <div class="business_item sm-m-top-30">
-                        <p class="m-top-20 text-black text-justify">Éste tipo de asesorías está dirigido a aquellos tesistas que requieran una atención más personalizada, por dicha razón es que brinda tres servicios:</p>
-                        <p>
-		                <span>&nbsp;&nbsp;</span><i class="fa fa-minus"></i><span>&nbsp;&nbsp;</span><strong>Programado</strong><br>
-		                <span>&nbsp;&nbsp;</span><i class="fa fa-minus"></i><span>&nbsp;&nbsp;</span><strong>Modular</strong><br>
-		                <span>&nbsp;&nbsp;</span><i class="fa fa-minus"></i><span>&nbsp;&nbsp;</span><strong>Libre</strong><br>
-		            	</p>
-                        <p class="m-top-20 text-black text-justify">Por lo tanto, el asesor temático coadyuva a que el tesista tome las mejores decisiones evaluando los pros y contras que demande un determinado tema de investigación.</p>
+                        <p class="text-black text-justify">Éste tipo de asesorías está dirigido a aquellos tesistas que requieran una atención más personalizada, por dicha razón es que brinda tres servicios:</p>
+                        <p><i class="fa fa-minus"></i><span>&nbsp;&nbsp;</span><strong>Programado</strong></p>
+                        <p class="text-black text-justify">Mediante éste servicio el tesista sigue una secuencia de módulos propuestos por Thesis in Iure, dicha secuencia la puede visualizar dando click aquí.</p>
+		                <p><i class="fa fa-minus"></i><span>&nbsp;&nbsp;</span><strong>Modular</strong></p>
+		                <p class="text-black text-justify">El programa modular está dirigido según a las necesidades que tiene el tesista, para ello puedo optar por cualquier de los módulos que ofrece Thesis in Iure, para visualizar, dar click aquí.</p>
+		                <p><i class="fa fa-minus"></i><span>&nbsp;&nbsp;</span><strong>Libre</strong></p>
+		                <p class="text-black text-justify">Éste programa está hecho para tesistas que no cuentan con un horario fijo para realizar la tesis y/o que además requieren pautas personales de acuerdo a sus intereses, por ello es que la asesoría se ejecuta previa coordinación con el tesista y atención a los tópicos o servicios académicos que requiera. De esa manera, el monto de la inversión también se evaluará previamente con tesista.</p>
                     </div>
                 </div>
             </div>
@@ -82,7 +84,7 @@
         <div class="row sm-m-top-10">
             <div class="col-md-12">
                 <div class="business_item">
-                    <h2 class="text-uppercase">Asesoría en Estadística Jurídica</h2>
+                    <h2 class="text-uppercase">Cursos de Formación Continua</h2>
                 </div>
                 <!--<span class="estexto4 text-black text-uppercase">Asesoría Metodológica Jurídica</span>-->
             </div>
@@ -102,42 +104,11 @@
                 
                 <div class="col-md-8">
                     <div class="business_item sm-m-top-30">
-                        <p class="m-top-20 text-black text-justify">La estadística en las investigaciones jurídicas es otra de las dificultades que ha tenido el tesista, por cuanto el estudiante de Derecho se prepara más para ser un litigador, jurista, magistrado, asesor legal, entre otros; asimismo, la visión de un estadista general al igual que un metodólogo general pueden tener limitaciones respecto a la interpretación de los datos jurídicos que se hayan obtenido.</p>
-                        <p class="m-top-20 text-black text-justify">Para superar los mencionados contratiempos, el asesor estadístico, que además tiene formación jurídica, ayudará a supurar ésta gran dificultad explicando al tesista tanto la estadística descriptiva y/o inferencial, según corresponda a la naturaleza de la investigación jurídica.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<section class="product roomy-30" id="asesoriatematicajuridica">
-    <div class="container">
-        <div class="row sm-m-top-10">
-            <div class="col-md-12">
-                <div class="business_item">
-                    <h2 class="text-uppercase">Asesoría en Epistemología Jurídica</h2>
-                </div>
-                <!--<span class="estexto4 text-black text-uppercase">Asesoría Metodológica Jurídica</span>-->
-            </div>
-        </div>
-        <div class="row">
-            <div class="main_business">
-                <div class="col-md-4">
-                    <div class="bg-grey"></div>
-                    <div class="business_items text-center">
-                        <div class="business_item">
-                            <div class="img-rounded">
-                                <img src="assets/images/about-img1.jpg" alt="" />
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="col-md-8">
-                    <div class="business_item sm-m-top-30">
-                        <p class="m-top-20 text-black text-justify">La bases o fundamentos de una investigación descansan sobre una determinada teoría filosófica, específicamente hablando sobre una determinada filosofía de la ciencia jurídica, tales como: Iusnaturalismo, iuspositivismo, ius-sociologismo, la Escuela Histórica del Derecho, las diversas Escuelas Relistas Jurídicas, el Ius-marxismo, la Escuela Egológica del Derecho, La Teoría de la Argumentación Jurídica, entre muchos más.</p>
-                        <p class="m-top-20 text-black text-justify">Dependiendo de cada posición epistemológica jurídica, la metodología y sus resultados tendrán una forma distinta de ser tratada y evaluada, la cual evitará la inconmensurabilidad sobre los conceptos, doctrinas, herramientas y filosofía que tengan las demás corrientes epistemológicas jurídicas una frente a la otra.</p>
-                        <p class="m-top-20 text-black text-justify">Con regularidad éste ítem es frecuentemente utilizado en los marcos teóricos de las tesis doctorales, sin embargo, ello no prohíbe que también puedan ser debidamente aplicadas en las investigaciones de pre-grado y maestría.</p>
+                    	<p class="text-black text-justify">Los cursos de formación contínua, son los siguientes:</p>
+                        <p><i class="fa fa-minus"></i><span>&nbsp;&nbsp;</span>Epistemología Jurídica</p>
+                        <p><i class="fa fa-minus"></i><span>&nbsp;&nbsp;</span>Metodología Jurídica</p>
+                        <p><i class="fa fa-minus"></i><span>&nbsp;&nbsp;</span>Estadística Jurídica</p>
+                        <p><i class="fa fa-minus"></i><span>&nbsp;&nbsp;</span>Estilos de Redacción Científica</p>
                     </div>
                 </div>
             </div>

@@ -114,10 +114,10 @@
                     <!-- navbar menu -->
                     <div class="collapse navbar-collapse" id="navbar-menu">
                         <ul class="nav navbar-nav navbar-right">
-                            <li><a href="index">Inicio</a></li>                    
-                            <li><a href="nosotros">Nosotros</a></li>
+                            <li><a href="index">Inicio</a></li>
                             <li><a href="lineas_asesorales">Líneas Asesorales</a></li>
                             <li><a href="programas">Programas</a></li>
+                            <li><a href="inversion_economica">Inversión Económica</a></li>
                             <li><a href="asesores">Asesores</a></li>
                             <li><a href="aulavirtual" target="_blank">Aula Virtual</a></li>
                             <li><a href="contactenos">Contáctenos</a></li>

@@ -71,16 +71,12 @@
                             
                             <div class="col-md-6">
                                 <div class="business_item sm-m-top-50">
-                                    <h2 class="text-uppercase">Nosotros</h2>
-                                    <p class="m-top-20">Lorem ipsum dolor sit amet, consectetur adipiscing elit pellentesque eleifend in mi 
-                                        sit amet mattis suspendisse ac ligula volutpat nisl rhoncus sagittis cras suscipit 
-                                        lacus quis erat malesuada lobortis eiam dui magna volutpat commodo eget pretium vitae
-                                        elit etiam luctus risus urna in malesuada ante convallis.</p>
-
-                                    <div class="business_btn">
-                                        <a href="" class="btn btn-primary m-top-20">Saber más</a>
-                                        <a href="equipo" class="btn btn-primary m-top-20">Conocer al Equipo</a>
-                                    </div>
+                                    <h2 class="text-uppercase">Thesis In Iure</h2>
+                                    <p class="text-black text-justify">Somos un grupo de profesionales de diferentes especialidades en el aspecto jurídico, que se dedican a la investigación y asesoramiento de Tesis en Derecho.</p>
+                                    <h2 class="text-uppercase">Misión</h2>
+                                    <p class="m-top-20 text-black">Ayudar a nuestros tesistas a alcanzar sus metas proveyéndoles las herramientas metodológicas y conocimientos doctrinarios del ámbito jurídico.</p>
+                                    <h2 class="text-uppercase">Visión</h2>
+                                    <p class="m-top-20 text-black">Ser el organismo líder en asesoría de Tesis Jurídicas en el Perú.</p>
                                 </div>
                             </div>
                         </div>
