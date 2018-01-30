@@ -74,9 +74,9 @@
                                     <h2 class="text-uppercase">Thesis In Iure</h2>
                                     <p class="text-black text-justify">Somos un grupo de profesionales de diferentes especialidades en el aspecto jurídico, que se dedican a la investigación y asesoramiento de Tesis en Derecho.</p>
                                     <h2 class="text-uppercase">Misión</h2>
-                                    <p class="m-top-20 text-black">Ayudar a nuestros tesistas a alcanzar sus metas proveyéndoles las herramientas metodológicas y conocimientos doctrinarios del ámbito jurídico.</p>
+                                    <p class="text-black text-justify">Ayudar a nuestros tesistas a alcanzar sus metas proveyéndoles las herramientas metodológicas y conocimientos doctrinarios del ámbito jurídico.</p>
                                     <h2 class="text-uppercase">Visión</h2>
-                                    <p class="m-top-20 text-black">Ser el organismo líder en asesoría de Tesis Jurídicas en el Perú.</p>
+                                    <p class="text-black text-justify">Ser el organismo líder en asesoría de Tesis Jurídicas en el Perú.</p>
                                 </div>
                             </div>
                         </div>
