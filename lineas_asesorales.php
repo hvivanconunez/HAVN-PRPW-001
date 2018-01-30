@@ -43,7 +43,7 @@
         </div>
         <div class="row">
             <div class="main_business">
-                <div class="col-md-4">
+                <div class="col-md-4 pull-right">
                     <div class="bg-grey"></div>
                     <div class="business_items text-center">
                         <div class="business_item">
@@ -54,8 +54,8 @@
                     </div>
                 </div>
                 
-                <div class="col-md-8">
-                    <div class="business_item">
+                <div class="col-md-8 pull-left">
+                    <div class="business_item sm-m-top-30">
                         <p class="text-black text-justify">Respecto al tema de investigación jurídica existen dos grandes dificultades: (1) Si el tema de investigación elegido por el tesista es el más idóneo y (2) afirmar: “Mi problema de investigación es que no tengo tema de investigación”.</p>
                         <p class="text-black text-justify">Dichos problemas se pueden superar a través de la experiencia académica de un asesor temático, especialista de una rama jurídica en específico, el cual otorgará mayores luces respecto a la predictibilidad sobre un tema de investigación, asimismo brinda y expone tópicos de investigación con y para el tesista para obtener temas de investigación.</p>
                         <p class="text-black text-justify">Por lo tanto, el asesor temático coadyuva a que el tesista tome las mejores decisiones evaluando los pros y contras que demande un determinado tema de investigación.</p>
@@ -108,7 +108,7 @@
         </div>
         <div class="row">
             <div class="main_business">
-                <div class="col-md-4">
+                <div class="col-md-4 pull-right">
                     <div class="bg-grey"></div>
                     <div class="business_items text-center">
                         <div class="business_item">
@@ -119,7 +119,7 @@
                     </div>
                 </div>
                 
-                <div class="col-md-8">
+                <div class="col-md-8 pull-left">
                     <div class="business_item sm-m-top-30">
                         <p class="text-black text-justify">La bases o fundamentos de una investigación descansan sobre una determinada teoría filosófica, específicamente hablando sobre una determinada filosofía de la ciencia jurídica, tales como: Iusnaturalismo, iuspositivismo, ius-sociologismo, la Escuela Histórica del Derecho, las diversas Escuelas Relistas Jurídicas, el Ius-marxismo, la Escuela Egológica del Derecho, La Teoría de la Argumentación Jurídica, entre muchos más.</p>
                         <p class="text-black text-justify">Dependiendo de cada posición epistemológica jurídica, la metodología y sus resultados tendrán una forma distinta de ser tratada y evaluada, la cual evitará la inconmensurabilidad sobre los conceptos, doctrinas, herramientas y filosofía que tengan las demás corrientes epistemológicas jurídicas una frente a la otra.</p>

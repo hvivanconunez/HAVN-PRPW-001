@@ -17,7 +17,7 @@
                     <div class="business_items text-center">
                         <div class="business_item">
                             <div class="img-rounded">
-                                <img src="assets/images/about-img1.jpg" alt="" />
+                                <img src="assets/images/programas-1.jpg" alt="" />
                             </div>
                         </div>
                     </div>
@@ -53,24 +53,32 @@
         </div>
         <div class="row">
             <div class="main_business">
-                <div class="col-md-4">
+                <div class="col-md-4 pull-right">
                     <div class="bg-grey"></div>
                     <div class="business_items text-center">
                         <div class="business_item">
                             <div class="img-rounded">
-                                <img src="assets/images/about-img1.jpg" alt="" />
+                                <img src="assets/images/programas-2.jpg" alt="" />
                             </div>
                         </div>
                     </div>
                 </div>
                 
-                <div class="col-md-8">
+                <div class="col-md-8 pull-left">
                     <div class="business_item sm-m-top-30">
                         <p class="text-black text-justify">Éste tipo de asesorías está dirigido a aquellos tesistas que requieran una atención más personalizada, por dicha razón es que brinda tres servicios:</p>
                         <p><i class="fa fa-minus"></i><span>&nbsp;&nbsp;</span><strong>Programado</strong></p>
-                        <p class="text-black text-justify">Mediante éste servicio el tesista sigue una secuencia de módulos propuestos por Thesis in Iure, dicha secuencia la puede visualizar dando click aquí.</p>
+                        <p class="text-black text-justify">Mediante éste servicio el tesista sigue una secuencia de módulos propuestos por <strong>Thesis In Iure</strong>, dicha secuencia la puede visualizar dando click aquí.</p>
 		                <p><i class="fa fa-minus"></i><span>&nbsp;&nbsp;</span><strong>Modular</strong></p>
-		                <p class="text-black text-justify">El programa modular está dirigido según a las necesidades que tiene el tesista, para ello puedo optar por cualquier de los módulos que ofrece Thesis in Iure, para visualizar, dar click aquí.</p>
+		                <p class="text-black text-justify">El programa modular está dirigido según a las necesidades que tiene el tesista, para ello puedo optar por cualquier de los módulos que ofrece <strong>Thesis In Iure</strong>, para visualizar, dar click aquí.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="main_business">
+                <div class="col-md-12">
+                    <div class="business_item sm-m-top-20">
 		                <p><i class="fa fa-minus"></i><span>&nbsp;&nbsp;</span><strong>Libre</strong></p>
 		                <p class="text-black text-justify">Éste programa está hecho para tesistas que no cuentan con un horario fijo para realizar la tesis y/o que además requieren pautas personales de acuerdo a sus intereses, por ello es que la asesoría se ejecuta previa coordinación con el tesista y atención a los tópicos o servicios académicos que requiera. De esa manera, el monto de la inversión también se evaluará previamente con tesista.</p>
                     </div>
@@ -96,7 +104,7 @@
                     <div class="business_items text-center">
                         <div class="business_item">
                             <div class="img-rounded">
-                                <img src="assets/images/about-img1.jpg" alt="" />
+                                <img src="assets/images/programas-3.jpg" alt="" />
                             </div>
                         </div>
                     </div>

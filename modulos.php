@@ -1,4 +1,4 @@
-<?php $lblTituloPagina = "Thesis in Iure | Programas"; ?>
+<?php $lblTituloPagina = "Thesis in Iure | Módulos"; ?>
 <?php include('includes/header.php'); ?>
 <section class="home3 bg-grey roomy-35" id="asesoriametodologicajuridica">
     <div class="container">
@@ -16,7 +16,7 @@
                     <div class="business_items text-center">
                         <div class="business_item">
                             <div class="img-rounded">
-                                <img src="assets/images/about-img1.jpg" alt="" />
+                                <img src="assets/images/modulos-1.jpg" alt="" />
                             </div>
                         </div>
                     </div>
@@ -43,7 +43,7 @@
                     <div class="business_items text-center">
                         <div class="business_item">
                             <div class="img-rounded">
-                                <img src="assets/images/about-img1.jpg" alt="" />
+                                <img src="assets/images/modulos-2.jpg" alt="" />
                             </div>
                         </div>
                     </div>
