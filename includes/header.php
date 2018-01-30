@@ -28,6 +28,9 @@
         <!--Theme Responsive css-->
         <link rel="stylesheet" href="assets/css/responsive.css" />
         <script src="assets/js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
+
+        <link href="http://netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
+        <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
     </head>
 
     <body data-spy="scroll" data-target=".navbar-collapse">
@@ -66,8 +69,6 @@
                                 <div class="navbar-socail text-right sm-text-center">
                                     <ul class="list-inline">
                                         <li><a href=""><i class="fa fa-facebook"></i></a></li>
-                                        <li><a href=""><i class="fa fa-twitter"></i></a></li>
-                                        <li><a href=""><i class="fa fa-linkedin"></i></a></li>
                                         <li><a href=""><i class="fa fa-youtube"></i></a></li>
                                     </ul>
                                 </div>

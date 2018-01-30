@@ -7,17 +7,25 @@
                                 <div class="widget_item widget_about">
                                     <h5 class="text-white">Contáctenos</h5>
                                     <div class="widget_ab_item m-top-30">
-                                        <div class="item_icon"><i class="fa fa-location-arrow"></i></div>
+                                        <div class="item_icon"><i class="fa fa-map-marker"></i></div>
                                         <div class="widget_ab_item_text">
-                                            <h6 class="text-white">Ubicación :</h6>
-                                            <p class="text-gray">Jr. Tarapaca 159</p>
+                                            <h6 class="text-white">Dirección Huancayo :</h6>
+                                            <p class="text-gray">Jr. Julio C Tello N° 371 of. 202</p>
+                                        </div>
+                                    </div>
+                                    <div class="widget_ab_item m-top-30">
+                                        <div class="item_icon"><i class="fa fa-map-marker"></i></div>
+                                        <div class="widget_ab_item_text">
+                                            <h6 class="text-white">Dirección La Merced :</h6>
+                                            <p class="text-gray">Jr. Ayacucho N° 403, 2do piso</p>
                                         </div>
                                     </div>
                                     <div class="widget_ab_item m-top-30">
                                         <div class="item_icon"><i class="fa fa-phone"></i></div>
                                         <div class="widget_ab_item_text">
-                                            <h6 class="text-white">Celular :</h6>
-                                            <p class="text-gray">+51 987 547 741</p>
+                                            <h6 class="text-white">Llámanos :</h6>
+                                            <p class="text-gray">Tel. (064) 587794</p>
+                                            <p class="text-gray">Cel. 987 547 741</p>
                                         </div>
                                     </div>
                                     <div class="widget_ab_item m-top-30">
@@ -80,8 +88,6 @@
                                     </div>
                                     <ul class="list-inline m-top-20">
                                         <li>-  <a href=""><i class="fa fa-facebook"></i></a></li>
-                                        <li><a href=""><i class="fa fa-twitter"></i></a></li>
-                                        <li><a href=""><i class="fa fa-linkedin"></i></a></li>
                                         <li><a href=""><i class="fa fa-youtube"></i></a> -</li>
                                     </ul>
 
