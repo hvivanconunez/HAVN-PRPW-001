@@ -4,7 +4,7 @@
                     <div class="row">
                         <div class="widget_area">
                             <div class="col-md-3">
-                                <div class="widget_item widget_about">
+                                <div class="widget_item widget_about wow fadeInUp" data-wow-duration="1s">
                                     <h5 class="text-white">Contáctenos</h5>
                                     <div class="widget_ab_item m-top-30">
                                         <div class="item_icon"><i class="fa fa-map-marker"></i></div>
@@ -39,7 +39,7 @@
                             </div><!-- End off col-md-3 -->
 
                             <div class="col-md-3">
-                                <div class="widget_item widget_about sm-m-top-50">
+                                <div class="widget_item widget_about sm-m-top-50 wow fadeInUp" data-wow-duration="1s">
                                     <h5 class="text-white">Horarios de Atención</h5>
                                     <div class="widget_ab_item m-top-30">
                                         <div class="item_icon"><i class="fa fa-clock-o"></i></div>
@@ -64,7 +64,7 @@
                             </div><!-- End off col-md-3 -->
 
                             <div class="col-md-3">
-                                <div class="widget_item widget_service sm-m-top-50">
+                                <div class="widget_item widget_service sm-m-top-50 wow fadeInUp" data-wow-duration="1s">
                                     <h5 class="text-white">Páginas de Interés</h5>
                                     <ul class="m-top-20">
                                         <li class="m-top-20"><a href=""><i class="fa fa-angle-right"></i> Página 1</a></li>
@@ -78,7 +78,7 @@
                             </div><!-- End off col-md-3 -->
 
                             <div class="col-md-3">
-                                <div class="widget_item widget_newsletter sm-m-top-50">
+                                <div class="widget_item widget_newsletter sm-m-top-50 wow fadeInUp" data-wow-duration="1s">
                                     <div class="widget_brand">
                                         <a href="" class="text-uppercase">Thesis In Iure</a>
                                         <!--

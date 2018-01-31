@@ -41,7 +41,7 @@
 
             <!--Business Section-->
             <section id="Nosotros" class="business bg-grey roomy-70">
-                <div class="container">
+                <div class="container wow fadeInRight" data-wow-duration="1s">
                     <div class="row">
                         <div class="main_business">
                             <div class="col-md-6">
@@ -89,7 +89,7 @@
             <section id="Servicios" class="product">
                 <div class="container">
                     <div class="main_product roomy-50">
-                        <div class="head_title text-center fix">
+                        <div class="head_title text-center fix wow fadeInLeft" data-wow-duration="1s">
                             <h2 class="text-uppercase">Nuestras Líneas Asesorales</h2>
                             <h5 class="text-black">Conozca nuestros servicios de las siguientes líneas asesorales</h5>
                         </div>
@@ -110,12 +110,9 @@
                                     <div class="container">
                                         <div class="row">
                                             <div class="col-sm-3">
-                                                <div class="port_item">
+                                                <div class="port_item imgclick2 wow fadeInUp" data-wow-duration="1s" onclick="window.open('lineas_asesorales#asesoriametodologicajuridica');">
                                                     <div class="">
                                                         <img src="assets/images/index-lineas-asesorales-1.jpg" alt="" />
-                                                        <div class="port_overlay text-center">
-                                                            <a href="assets/images/work-img1.jpg" class="popup-img">+</a>
-                                                        </div>
                                                     </div>
                                                     <div class="port_caption m-top-20">
                                                         <h6 class="text-black">Asesoría Metodológica Jurídica</h6>
@@ -123,7 +120,7 @@
                                                 </div>
                                             </div>
                                             <div class="col-sm-3">
-                                                <div class="port_item xs-m-top-30">
+                                                <div class="port_item xs-m-top-30 imgclick2 wow fadeInUp" data-wow-duration="1s" onclick="window.open('lineas_asesorales#asesoriatematicajuridica');">
                                                     <div class="">
                                                         <img src="assets/images/index-lineas-asesorales-2.jpg" alt="" class="img-responsive" />
                                                         <div class="port_overlay text-center">
@@ -136,7 +133,7 @@
                                                 </div>
                                             </div>
                                             <div class="col-sm-3">
-                                                <div class="port_item xs-m-top-30">
+                                                <div class="port_item xs-m-top-30 imgclick2 wow fadeInUp" data-wow-duration="1s" onclick="window.open('lineas_asesorales#asesoriaestadisticajuridica');">
                                                     <div class="">
                                                         <img src="assets/images/index-lineas-asesorales-3.jpg" alt="" class="img-responsive" />
                                                         <div class="port_overlay text-center">
@@ -149,7 +146,7 @@
                                                 </div>
                                             </div>
                                             <div class="col-sm-3">
-                                                <div class="port_item xs-m-top-30">
+                                                <div class="port_item xs-m-top-30 imgclick2 wow fadeInUp" data-wow-duration="1s" onclick="window.open('lineas_asesorales#asesoriaepistemologiajuridica');">
                                                     <div class="">
                                                         <img src="assets/images/index-lineas-asesorales-4.jpg" alt="" class="img-responsive" />
                                                         <div class="port_overlay text-center">
@@ -192,13 +189,13 @@
                         <div class="main_test fix">
 
                             <div class="col-md-12 col-sm-12 col-xs-12">
-                                <div class="head_title text-center fix">
+                                <div class="head_title text-center fix wow fadeInRight" data-wow-duration="1s">
                                     <h2 class="text-uppercase">Equipo Thesis In Iure</h2>
                                     <h5 class="text-black">Conoce a los Miembros</h5>
                                 </div>
                             </div>
 
-                            <div class="col-md-3 imgclick" data-wow-duration="1s" onclick="window.open('equipo#pierrevivanco');">
+                            <div class="col-md-3 imgclick wow fadeInDown" data-wow-duration="1s" onclick="window.open('equipo#pierrevivanco');">
                                 <div class="test_item fix">
                                     <div class="text-center">
                                         <img class="img-circle imgmiembros" src="assets/images/test-img6.jpg" alt=""/>
@@ -211,7 +208,7 @@
                                 </div>
                             </div>
 
-                            <div class="col-md-3 imgclick" data-wow-duration="1s" onclick="window.open('equipo#omarvivanco');">
+                            <div class="col-md-3 imgclick wow fadeInDown" data-wow-duration="1s" onclick="window.open('equipo#omarvivanco');">
                                 <div class="test_item fix">
                                     <div class="text-center">
                                         <img class="img-circle imgmiembros" src="assets/images/test-img5.jpg" alt="" />
@@ -224,7 +221,7 @@
                                 </div>
                             </div>
 
-                            <div class="col-md-3 imgclick" data-wow-duration="1s" onclick="window.open('equipo#hectorvivanco');">
+                            <div class="col-md-3 imgclick wow fadeInDown" data-wow-duration="1s" onclick="window.open('equipo#hectorvivanco');">
                                 <div class="test_item fix">
                                     <div class="text-center">
                                         <img class="img-circle imgmiembros" src="assets/images/test-img3.jpg" alt="" />
@@ -237,7 +234,7 @@
                                 </div>
                             </div>
 
-                            <div class="col-md-3 imgclick" data-wow-duration="1s" onclick="window.open('equipo#fernandomartinez');">
+                            <div class="col-md-3 imgclick wow fadeInDown" data-wow-duration="1s" onclick="window.open('equipo#fernandomartinez');">
                                 <div class="test_item fix">
                                     <div class="text-center">
                                         <img class="img-circle imgmiembros" src="assets/images/test-img4.jpg" alt="" />

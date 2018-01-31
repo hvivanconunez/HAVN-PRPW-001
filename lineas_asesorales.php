@@ -2,7 +2,7 @@
 <?php include('includes/header.php'); ?>
 <!--Business Section-->
 <section class="home3 bg-grey roomy-35" id="asesoriametodologicajuridica">
-    <div class="container">
+    <div class="container wow fadeInRight" data-wow-duration="1s">
         <div class="row sm-m-top-50">
             <div class="col-md-12">
                 <div class="business_item">
@@ -33,7 +33,7 @@
     </div>
 </section>
 <section class="product roomy-30" id="asesoriatematicajuridica">
-    <div class="container">
+    <div class="container wow fadeInLeft" data-wow-duration="1s">
         <div class="row sm-m-top-10">
             <div class="col-md-12">
                 <div class="business_item">
@@ -66,7 +66,7 @@
     </div>
 </section>
 <section class="product bg-grey roomy-30" id="asesoriaestadisticajuridica">
-    <div class="container">
+    <div class="container wow fadeInRight" data-wow-duration="1s">
         <div class="row sm-m-top-10">
             <div class="col-md-12">
                 <div class="business_item">
@@ -97,8 +97,8 @@
         </div>
     </div>
 </section>
-<section class="product roomy-30" id="asesoriatematicajuridica">
-    <div class="container">
+<section class="product roomy-30" id="asesoriaepistemologiajuridica">
+    <div class="container wow fadeInLeft" data-wow-duration="1s">
         <div class="row sm-m-top-10">
             <div class="col-md-12">
                 <div class="business_item">

@@ -1,7 +1,7 @@
 <?php $lblTituloPagina = "Thesis in Iure | Inversión Económica"; ?>
 <?php include('includes/header.php'); ?>
 <section class="home3 bg-grey roomy-35" id="asesoriametodologicajuridica">
-    <div class="container">
+    <div class="container wow fadeInRight" data-wow-duration="1s">
         <div class="row sm-m-top-50">
             <div class="col-md-12">
                 <div class="business_item">

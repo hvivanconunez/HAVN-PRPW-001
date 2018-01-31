@@ -1,7 +1,4 @@
-function CargarPaginar(url){
+function CargarPagina(url){
 	var nuevapagina = window.open(url);
-	newWindow.onload = function(){
-	    nuevapagina.scrollTo(0, 150);
-	}
-	newWindow.onload();
+	setTimeout(function() { nuevapagina.scrollTo(0, 100) }, 0);
 }
