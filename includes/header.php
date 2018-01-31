@@ -60,7 +60,7 @@
                             <div class="col-md-6">
                                 <div class="navbar-callus text-left sm-text-center">
                                     <ul class="list-inline">
-                                        <li><a href=""><i class="fa fa-phone"></i> Celular: +51 987 547 741</a></li>
+                                        <li><a href=""><i class="fa fa-phone"></i> Celular: 987 547 741</a></li>
                                         <li><a href=""><i class="fa fa-envelope-o"></i> E-mail: vivanco_n@hotmail.com</a></li>
                                     </ul>
                                 </div>
