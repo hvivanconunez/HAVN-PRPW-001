@@ -54,6 +54,7 @@
 
 
             <nav class="navbar navbar-default bootsnav navbar-fixed">
+                <!--
                 <div class="navbar-top bg-grey fix">
                     <div class="container">
                         <div class="row">
@@ -76,8 +77,10 @@
                         </div>
                     </div>
                 </div>
+                -->
 
                 <!-- Start Top Search -->
+                <!--
                 <div class="top-search">
                     <div class="container">
                         <div class="input-group">
@@ -87,6 +90,7 @@
                         </div>
                     </div>
                 </div>
+                -->
                 <!-- End Top Search -->
 
 

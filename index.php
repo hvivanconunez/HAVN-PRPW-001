@@ -1,4 +1,4 @@
-<?php $lblTituloPagina = "Thesis in Iure | Inicio"; ?>
+<?php $lblTituloPagina = "inThesis | Inicio"; ?>
 <?php include('includes/header.php'); ?>
             <!--Home Sections-->
             <section id="Inicio" class="home bg-black fix">
@@ -11,9 +11,9 @@
                                     <!-- INICIO - Slider Principal -->
                                     <div class="slid_item">
                                         <div class="home_text ">
-                                            <h2 class="text-white">Bienvenido a <strong>Thesis In Iure</strong></h2>
-                                            <h1 class="text-white">Asesoría de Tesis en Derecho</h1>
-                                            <h3 class="text-white">- Grupo de profesionales que <strong>Asesoramos Tesis</strong> de tu Especialidad -</h3>
+                                            <h2 class="text-white">Bienvenido a <strong>inThesis</strong></h2>
+                                            <h1 class="text-white">Asesoría de Tesis</h1>
+                                            <h3 class="text-white">- Asesoramiento Garantizado con Profesionales de Éxito -</h3>
                                         </div>
                                         <!--
                                         <div class="home_btns m-top-40">

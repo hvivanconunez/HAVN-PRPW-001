@@ -17,6 +17,9 @@ Author URI: http://www.xpeedstudio.com
         padding-top: 30px;
         padding-bottom: 30px;
     }
+    .home3{
+        padding-top: 105px;
+    }
 }
 
 
@@ -60,6 +63,9 @@ Author URI: http://www.xpeedstudio.com
     .roomy-30 {
         padding-top: 30px;
         padding-bottom: 30px;
+    }
+    .home3{
+        padding-top: 105px;
     }
 }
 
@@ -114,7 +120,9 @@ Author URI: http://www.xpeedstudio.com
         padding-top: 8px;
         padding-bottom: 30px;
     }
-
+    .home3{
+        padding-top: 15px;
+    }
     .imghidesmall{
         display: none;
     }
@@ -145,13 +153,17 @@ Author URI: http://www.xpeedstudio.com
     .imghidesmall{
         display: none;
     }
-
+    .home{
+        padding-top: 80px;
+        padding-bottom: 15px;
+    }
+    .home3{
+        padding-top: 15px;
+    }
     .roomy-30 {
         padding-top: 0px;
         padding-bottom:30px;
     }
-
-
 }
 
 @media (max-width: 400px) {

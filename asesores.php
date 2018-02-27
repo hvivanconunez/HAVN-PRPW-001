@@ -1,4 +1,4 @@
-<?php $lblTituloPagina = "Thesis in Iure | Asesores"; ?>
+<?php $lblTituloPagina = "inThesis | Asesores"; ?>
 <?php include('includes/header.php'); ?>
 <!--Business Section-->
 <section class="home3 bg-grey roomy-35" id="pierrevivanco">
