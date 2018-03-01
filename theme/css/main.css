@@ -373,6 +373,13 @@ ul.nostyle i {
   margin-top: 80px;
 }
 
+#pricing #features {
+  padding: 100px 0; background: #fff;
+}
+#pricing #features .media.service-box:first-child {
+  margin-top: 80px; background: #fff;
+}
+
 #nosotros {
   padding: 87px 0 87px; background: #012a3c;
 }
