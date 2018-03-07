@@ -2,7 +2,7 @@
 
 body {
   padding-top: 60px;
-  background: #012a3c;
+  background: #fff;
   font-family: 'Roboto-regular', sans-serif;
   font-weight: 300;
   color: #454545; font-size:15px;
@@ -167,7 +167,7 @@ ul.nostyle i {
 }
 
 
-@media(min-width:767px) {
+@media(min-width:1300px) {
     .navbar {
         padding: 20px 0;
         -webkit-transition: background .5s ease-in-out,padding .5s ease-in-out;
@@ -415,7 +415,7 @@ ul.nostyle i {
 
 
 #services {
-  padding: 87px 0 87px; background: #fff;
+  padding: 87px 0 87px; background: #fff; /*#fff*/
 }
 #services .btn.btn-primary { font-family: 'Roboto-regular'; font-size:15px; margin-top:20px; padding:10px 30px;}
 .media.service-box {
@@ -775,7 +775,7 @@ ul.nostyle i {
   margin-bottom: 20px;
 }
 #pricing {
-  padding: 84px 0 70px 0px; background:#c4f0fb;
+  padding: 84px 0 70px 0px; background:#c4f0fb; /*#1C8499*/
 }
 #pricing ul.pricing {
   list-style: none;
@@ -1044,15 +1044,42 @@ ul.nostyle i {
   box-shadow: none;
   -webkit-box-shadow: none;
 }
+/*768 999
+  767
+  500*/
+@media (min-width: 1000px) and (max-width:1299px) {
+  #main-menu.navbar-default .navbar-nav > li > a{ padding-left:7px; padding-right:7px; font-size:13px;}
+  #meet-team .team-member{ margin-bottom:25px;}
+  #meet-team .team-member .team-img, #meet-team .team-member .team-info h3 { text-align:center;}
+  #meet-team .team-member .team-info span { text-align:center; display:block;}
+  }
+
 @media (min-width: 768px) and (max-width:999px) {
-	#main-menu.navbar-default .navbar-nav > li > a{ padding-left:8px; padding-right:8px; font-size:15px;}
+	#main-menu.navbar-default .navbar-nav > li > a{ padding-left:5px; padding-right:5px; font-size:10.5px;}
 	#meet-team .team-member{ margin-bottom:25px;}
 	#meet-team .team-member .team-img, #meet-team .team-member .team-info h3 { text-align:center;}
 	#meet-team .team-member .team-info span { text-align:center; display:block;}
-	
 	}
 
 @media (max-width:767px) {
+  body {
+    background: #012a3c;
+  }
+  .modal-header > h4 {
+    font-size: 16px;
+  }
+  #main-menu.navbar-default {
+    background: #012a3c;
+  }
+  #main-menu.navbar-default .navbar-nav > li > a {
+    color: #B3B3B3;
+  }
+  #main-menu.navbar-default .navbar-nav > li.active > a,
+  #main-menu.navbar-default .navbar-nav > li.open > a,
+  #main-menu.navbar-default .navbar-nav > li:hover > a {
+    background: #fff;
+    border-top: 0px solid #fff; color:#012a3c;
+  }
 	#meet-team .team-member{ margin-bottom:25px;}
 	#meet-team .team-member .team-img, #meet-team .team-member .team-info h3 { text-align:center;}
 	#meet-team .team-member .team-info span { text-align:center; display:block;}

@@ -7,6 +7,8 @@ jQuery(function($) {'use strict';
 
 	$('.navbar-collapse ul li a').on('click', function() {  
 		$('html, body').animate({scrollTop: $(this.hash).offset().top - 5}, 1000);
+		if(window.innerWidth < 768)
+			$('.navbar-toggle').click();
 		return false;
 	});
 
