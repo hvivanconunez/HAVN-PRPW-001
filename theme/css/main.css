@@ -1085,6 +1085,10 @@ ul.nostyle i {
 	#meet-team .team-member .team-info span { text-align:center; display:block;}
 	#blog .blog-post{ margin-bottom:20px;}
 
+  .btnCerrarModal {
+    float: left;
+  }
+
 	}
 	
 @media (max-width:500px){
